@@ -1,4 +1,4 @@
-### Hi there 👋❤️ 🙏 😎
+### Hi there 👋 ❤️ 🙏 😎
 
 This is Senthil. I'm a Full-stack developer with 7+ years of industry experience in different languages and platforms. I am a passionate guy, committed to learning every new technology, and also capable of working tirelessly.
 
