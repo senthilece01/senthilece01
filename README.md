@@ -32,11 +32,9 @@ Outside of [GitHub](https://github.com/senthilece01/), You can **find me.**
 <a target="_blank" href="https://www.linkedin.com/in/senthil-kumar-4b282591/">
 <img src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png" width="35px">
 </a>
-<hr>
 <a target="_blank" href="https://senthilk.dev/">
 <img src="https://image.flaticon.com/icons/png/512/189/189468.png" width="35px">
 </a>
-<hr> 
 <a target="_blank" href="https://medium.com/@senthilkumar_892">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="35px">
 </a>
