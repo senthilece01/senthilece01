@@ -33,7 +33,7 @@ Outside of [GitHub](https://github.com/senthilece01/), You can **find me.**
 <img src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png" width="40px">
 </a>
 <a href="https://senthilk.dev/">
-<img src="https://image.flaticon.com/icons/png/512/189/189468.png" width="50px">
+<img src="https://image.flaticon.com/icons/png/512/189/189468.png" width="40px">
 </a>
 <a href="https://medium.com/@senthilkumar_892">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="40px">
