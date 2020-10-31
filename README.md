@@ -21,6 +21,7 @@ This is Senthil. I'm a Full-stack developer with 7+ years of industry experience
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -29,17 +30,17 @@ This is Senthil. I'm a Full-stack developer with 7+ years of industry experience
 Outside of [GitHub](https://github.com/senthilece01/), You can **find me.**
 
 <a href="https://www.linkedin.com/in/senthil-kumar-4b282591/">
-<img src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png" width="50px">
+<img src="https://icons.iconarchive.com/icons/martz90/circle/512/linkedin-icon.png" width="40px">
 </a>
 <a href="https://senthilk.dev/">
 <img src="https://image.flaticon.com/icons/png/512/189/189468.png" width="50px">
 </a>
 <a href="https://medium.com/@senthilkumar_892">
-<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="40px">
 </a>
 <a href="https://twitter.com/senthil171291">
-<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/twitter.png" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/twitter.png" width="40px">
 </a>
 <a href="https://www.facebook.com/senthil171291/">
-<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/facebook.png" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/facebook.png" width="40px">
 </a>
