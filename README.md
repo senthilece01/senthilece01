@@ -6,7 +6,7 @@ This is Senthil. I'm a Full-stack developer with 7+ years of industry experience
 - 🌱 I’m currently learning SwiftUI.
 - 👯 I would be glad to collaborate over any project that keeps my learning wheel spinning.
 - 🖥 I used to write answers in StackOverflow.
-- 💬 Ask me about Native iOS, Android | Flutter | Node.js
+- 💬 Ask me about Native iOS, Android | Flutter | React.js | Node.js
 - ⚡ Fun fact: I enjoy learning🙂
 
 **Languages, frameworks & Tools:**
