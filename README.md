@@ -1,6 +1,6 @@
 ### Hi there 👋 ❤️ 🙏 😎
 
-This is Senthil. I'm a Full-stack developer with 7+ years of industry experience in different languages and platforms. I am a passionate guy, committed to learning every new technology, and also capable of working tirelessly.
+This is Senthil. I'm a Senior mobile app developer with 9+ years of industry experience in different languages and platforms. I am a passionate guy, committed to learning every new technology, and also capable of working tirelessly.
 
 - 🔭 I’m currently working on video call app, chat bot.
 - 🌱 I’m currently learning SwiftUI.
