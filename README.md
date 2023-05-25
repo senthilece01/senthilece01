@@ -4,6 +4,7 @@ This is Senthil. I work as a senior mobile app developer for several platforms a
 
 - 🔭 I’m currently working on chat bot.
 - 👯 I would be glad to collaborate over any project that keeps my learning wheel spinning.
+- 👯 I’m looking to collaborate on anything free and open source
 - 🖥 I used to write answers in StackOverflow.
 - 💬 Ask me about Native iOS | Android | Flutter | React.js | Node.js
 - ⚡ Fun fact: I enjoy learning🙂
