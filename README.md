@@ -9,7 +9,7 @@ This is Senthil. I work as a senior mobile app developer for several platforms a
 - 💬 Ask me about Native iOS | Android | Flutter | React.js | Node.js
 - ⚡ Fun fact: I enjoy learning🙂
 
-### Me on Internet:
+### Connect with me:
 
 <p><a href="https://twitter.com/senthil171291"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/senthil-kumar-4b282591"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <p><a href="https://senthilk.dev/">➡️ Check out my website</a></p>
