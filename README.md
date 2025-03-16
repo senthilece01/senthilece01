@@ -30,11 +30,11 @@ I’m a passionate **Flutter developer** who loves building beautiful, high-perf
 
 
 ### 📊 GitHub Stats
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MySelfMukund&show_icons=true&theme=light)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilece01&show_icons=true&theme=light)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MySelfMukund&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilece01&layout=compact&theme=light)
 
 ### 📈 Contribution Graph
-![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MySelfMukund&theme=vue)
+![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senthilece01&theme=vue)
 
