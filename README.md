@@ -1,4 +1,4 @@
-# Hi there, I'm Mukund 👋
+# Hi there, I'm Senthilkumar 👋
 
 I’m a passionate **Flutter developer** who loves building beautiful, high-performance, and scalable mobile applications. With expertise in **Dart, Firebase, REST APIs, and state management (Provider, GetX, Bloc)**, I enjoy turning ideas into **beautiful and functional mobile experiences with Flutter and Dart**. Currently, I lead a team of developers and testers to deliver high-quality mobile applications.
 
