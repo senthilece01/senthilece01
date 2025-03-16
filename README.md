@@ -30,7 +30,7 @@ I’m a passionate **Flutter developer** who loves building beautiful, high-perf
 
 
 ### 📊 GitHub Stats
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthilece01&show_icons=true&theme=light)
+![](https://komarev.com/ghpvc/?username=senthilece01&color=blue)
 
 ### 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilece01&layout=compact&theme=light)
