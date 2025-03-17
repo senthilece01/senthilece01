@@ -26,12 +26,6 @@ I’m a passionate **Flutter developer** who loves building beautiful, high-perf
 [![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=restful&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-
-
-
-### 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=senthilece01&color=blue)
-
 ### 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilece01&layout=compact&theme=light)
 
