@@ -2,7 +2,7 @@
 
 I’m a passionate **Full-stack application developer** who enjoys building modern, high-performance, and scalable mobile and web applications. With strong expertise in **Dart, Java, Kotlin, Swift, and JavaScript frameworks like React and Next.js**, I craft intuitive user experiences across platforms. I specialise in Firebase, RESTful APIs, Tailwind CSS, and Postman, with additional skills in SQL/SQLite, Node.js, and Mongoose for backend integration. I lead a team of developers and testers, focusing on clean architecture, efficient state management, and continuous delivery of high-quality solutions.
 
-🛠️ **Skills and Tools**
+## 🛠️ **Skills and Tools**
 
 - **Languages:** Dart, Java, Kotlin, Swift, JavaScript, SQL  
 - **Frameworks & Tools:** Flutter, React, Next.js, Node.js, Firebase, Postman, Figma, VS Code, Android Studio, Xcode  
@@ -37,9 +37,9 @@ I’m a passionate **Full-stack application developer** who enjoys building mode
 [![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=restful&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-### 🔥 Top Languages
+## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilece01&layout=compact&theme=light)
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 ![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senthilece01&theme=vue)
 
