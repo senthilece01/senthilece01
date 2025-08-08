@@ -1,13 +1,15 @@
 # Hi there, I'm Senthilkumar 👋
 
-I’m a passionate **Flutter developer** who loves building beautiful, high-performance, and scalable mobile applications. With expertise in **Dart, Firebase, REST APIs, and state management (Provider, GetX, Bloc)**, I enjoy turning ideas into **beautiful and functional mobile experiences with Flutter and Dart**. Currently, I lead a team of developers and testers to deliver high-quality mobile applications.
+I’m a passionate **full-stack application developer** who enjoys building modern, high-performance, and scalable mobile and web applications. With strong expertise in** Dart, Java, Kotlin, Swift, and JavaScript frameworks like React and Next.js**, I craft intuitive user experiences across platforms. I specialise in Firebase, RESTful APIs, Tailwind CSS, and Postman, with additional skills in SQL/SQLite, Node.js, and Mongoose for backend integration. I lead a team of developers and testers, focusing on clean architecture, efficient state management, and continuous delivery of high-quality solutions.
 
-### 🛠️ Skills and tools
-- **Languages**: Dart, Java, Kotlin, Swift
-- **Frameworks & Tools**: Flutter, Firebase, Postman, VS Code, Android Studio, Xcode
-- **State Management**: Bloc, Provider, Redux, GetX
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
-- **Other**: Team Leadership, Agile, CI/CD
+🛠️ Skills and Tools
+	•	Languages: Dart, Java, Kotlin, Swift, JavaScript, SQL
+	•	Frameworks & Tools: Flutter, React, Next.js, Node.js, Firebase, Postman, Figma, VS Code, Android Studio, Xcode
+	•	State Management: Bloc, Provider, Redux, GetX
+	•	Styling & UI: Tailwind CSS, HTML5, CSS3
+	•	Databases: SQLite, Mongoose, SQL
+	•	Version Control: Git, GitHub, GitLab, Bitbucket
+	•	Other: RESTful APIs, Team Leadership, Agile, CI/CD
 
 ## 🌐 Connect with Me:
 
