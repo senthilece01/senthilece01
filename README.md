@@ -1,6 +1,5 @@
-# Hi there, I'm Senthilkumar 👋
-
-I’m a passionate **Full-stack application developer** who enjoys building modern, high-performance, and scalable mobile and web applications. With strong expertise in **Dart, Java, Kotlin, Swift, and JavaScript frameworks like React and Next.js**, I craft intuitive user experiences across platforms. I specialise in Firebase, RESTful APIs, Tailwind CSS, and Postman, with additional skills in SQL/SQLite, Node.js, and Mongoose for backend integration. I lead a team of developers and testers, focusing on clean architecture, efficient state management, and continuous delivery of high-quality solutions.
+<h1 align="center">Hi 👋, I'm Senthilkumar</h1>
+<h3 align="center">Full-Stack Developer | iOS | Android | Flutter | Next JS | React JS | Node JS | AI Automation | Tailwind CSS | Firebase | AWS</h3>
 
 ## 🛠️ **Skills and Tools**
 
