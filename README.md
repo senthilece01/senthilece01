@@ -16,9 +16,9 @@
 ## 🧑‍💻 About Me
 ```js
 const senthilkumar = {
-  role: "Senior Software Engineer → Full-Stack + AI Engineer",
+  role: "Senior Full-Stack Developer & AI Engineer",
   experience: "12+ years",
-  currentFocus: ["AI Agents", "MCP Servers", "Claude Code", "n8n Automation"],
+  currentFocus: ["AI Agents", "MCP Servers", "Claude Code", "n8n Automation", "RAG Pipelines"],
   expertise: ["Flutter", "Next.js", "React", "Node.js", "iOS", "Android"],
   certifiedBy: ["Anthropic (Claude Code, Claude 101, Anthropic API)", "Google (PM, Agile)"],
   communities: ["GDG Chennai", "Chennai Hackfest 2026", "Namma Flutter Devcon"],
@@ -28,16 +28,47 @@ const senthilkumar = {
 
 ---
 
-## 🤖 AI & Automation Stack
+## 🤖 AI Expertise
 
-> Currently building intelligent agents, agentic workflows, and AI-powered applications.
+### AI Coding Assistants
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7F77DD?style=for-the-badge&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open_Code-2D2D2D?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+### LLM Platforms
+![Claude Opus](https://img.shields.io/badge/Claude_Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Sonnet](https://img.shields.io/badge/Claude_Sonnet-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini Pro](https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-FF6B35?style=for-the-badge&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-00B4D8?style=for-the-badge&logoColor=white)
+
+### AI Integrations & Automation
 ![MCP](https://img.shields.io/badge/MCP_Servers-7F77DD?style=for-the-badge&logoColor=white)
+![Agents](https://img.shields.io/badge/AI_Agents-EA4B71?style=for-the-badge&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks_&_Commands-2D2D2D?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel AI](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Manychat](https://img.shields.io/badge/Manychat-00B2FF?style=for-the-badge&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+### AI Design Tools
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Figma Make](https://img.shields.io/badge/Figma_Make-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Claude Design](https://img.shields.io/badge/Claude_Design-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### AI Testing
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Agent Browser](https://img.shields.io/badge/Agent_Browser-7F77DD?style=for-the-badge&logoColor=white)
+![Testsprite](https://img.shields.io/badge/Testsprite-FF6B35?style=for-the-badge&logoColor=white)
+
+### AI Platforms
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logoColor=black)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -57,6 +88,8 @@ const senthilkumar = {
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Cloud, DB & DevOps**
 
@@ -64,15 +97,15 @@ const senthilkumar = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**State Management & Tools**
+**CI/CD, Version Control & Tools**
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-2196F3?style=for-the-badge&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
@@ -95,6 +128,7 @@ const senthilkumar = {
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [RAG Agent](https://github.com/senthilece01/rag-agent-master) | FastAPI · LangGraph · Pinecone · Groq | Production-ready RAG API — upload PDFs, query with AI, get cited answers |
 | [AI Health Assistant](https://github.com/senthilece01/Flutter_AI_Health_Assistant) | Flutter · Gemini API · GetX | Conversational health AI with symptom chat & wellness tracking |
 | [Leave Management System](https://github.com/senthilece01/HR-Management-System) | Next.js · TypeScript · Redux · shadcn/ui | Full-stack HR portal with role-based leave approval |
 | [SKAlertDialog](https://github.com/senthilece01/SKAlertDialog) | Flutter · Dart | Highly customizable alert dialog Flutter package |
