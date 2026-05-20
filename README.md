@@ -142,11 +142,13 @@ const senthilkumar = {
 
 <div align="center">
 
-![Senthilkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senthilece01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Senthilkumar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senthilece01&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilece01&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senthilece01&theme=tokyonight)
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senthilece01&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senthilece01&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=senthilece01&theme=tokyonight&hide_border=true)
 
 </div>
 
