@@ -128,6 +128,7 @@ const senthilkumar = {
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [VAPI Voice Assistant](https://github.com/senthilece01/vapi-voice-assistant) | Vanilla JS · VAPI | Standalone AI voice assistant widget — no build step, pure vanilla JS |
 | [RAG Agent](https://github.com/senthilece01/rag-agent-master) | FastAPI · LangGraph · Pinecone · Groq | Production-ready RAG API — upload PDFs, query with AI, get cited answers |
 | [AI Health Assistant](https://github.com/senthilece01/Flutter_AI_Health_Assistant) | Flutter · Gemini API · GetX | Conversational health AI with symptom chat & wellness tracking |
 | [Leave Management System](https://github.com/senthilece01/HR-Management-System) | Next.js · TypeScript · Redux · shadcn/ui | Full-stack HR portal with role-based leave approval |
