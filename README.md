@@ -17,7 +17,7 @@
 ```js
 const senthilkumar = {
   role: "Senior Software Engineer → Full-Stack + AI Engineer",
-  experience: "11+ years",
+  experience: "12+ years",
   currentFocus: ["AI Agents", "MCP Servers", "Claude Code", "n8n Automation"],
   expertise: ["Flutter", "Next.js", "React", "Node.js", "iOS", "Android"],
   certifiedBy: ["Anthropic (Claude Code, Claude 101, Anthropic API)", "Google (PM, Agile)"],
