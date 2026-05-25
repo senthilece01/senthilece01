@@ -14,13 +14,23 @@
 ---
 
 ## 🧑‍💻 About Me
+
 ```js
 const senthilkumar = {
   role: "Senior Full-Stack Developer & AI Engineer",
   experience: "12+ years",
-  currentFocus: ["AI Agents", "MCP Servers", "Claude Code", "n8n Automation", "RAG Pipelines"],
+  currentFocus: [
+    "AI Agents",
+    "MCP Servers",
+    "Claude Code",
+    "n8n Automation",
+    "RAG Pipelines",
+  ],
   expertise: ["Flutter", "Next.js", "React", "Node.js", "iOS", "Android"],
-  certifiedBy: ["Anthropic (Claude Code, Claude 101, Anthropic API)", "Google (PM, Agile)"],
+  certifiedBy: [
+    "Anthropic (Claude Code, Claude 101, Anthropic API)",
+    "Google (PM, Agile)",
+  ],
   communities: ["GDG Chennai", "Chennai Hackfest 2026", "Namma Flutter Devcon"],
   hireable: () => true,
 };
@@ -31,6 +41,7 @@ const senthilkumar = {
 ## 🤖 AI Expertise
 
 ### AI Coding Assistants
+
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -39,6 +50,7 @@ const senthilkumar = {
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ### LLM Platforms
+
 ![Claude Opus](https://img.shields.io/badge/Claude_Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Sonnet](https://img.shields.io/badge/Claude_Sonnet-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -47,6 +59,7 @@ const senthilkumar = {
 ![Kimi](https://img.shields.io/badge/Kimi-00B4D8?style=for-the-badge&logoColor=white)
 
 ### AI Integrations & Automation
+
 ![MCP](https://img.shields.io/badge/MCP_Servers-7F77DD?style=for-the-badge&logoColor=white)
 ![Agents](https://img.shields.io/badge/AI_Agents-EA4B71?style=for-the-badge&logoColor=white)
 ![Hooks](https://img.shields.io/badge/Hooks_&_Commands-2D2D2D?style=for-the-badge&logoColor=white)
@@ -55,16 +68,19 @@ const senthilkumar = {
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### AI Design Tools
+
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma Make](https://img.shields.io/badge/Figma_Make-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Design](https://img.shields.io/badge/Claude_Design-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### AI Testing
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Agent Browser](https://img.shields.io/badge/Agent_Browser-7F77DD?style=for-the-badge&logoColor=white)
 ![Testsprite](https://img.shields.io/badge/Testsprite-FF6B35?style=for-the-badge&logoColor=white)
 
 ### AI Platforms
+
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD700?style=for-the-badge&logoColor=black)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -113,28 +129,29 @@ const senthilkumar = {
 
 ## 🏅 Certifications
 
-| Badge | Issuer | Certificate |
-|-------|--------|-------------|
-| 🤖 Claude with the Anthropic API | Anthropic | [Verify](https://verify.skilljar.com/c/7fesrdovcbyu) |
-| 🤖 Claude Code in Action | Anthropic | [Verify](https://verify.skilljar.com/c/25va62tkxavi) |
-| 🤖 Claude 101 | Anthropic | [Verify](https://verify.skilljar.com/c/i3x4mxghp4dg) |
-| 📊 Google Project Management | Google | [Verify](https://coursera.org/share/c600b4aa34c37215aa1019eba2d6cabe) |
-| ⚡ Agile Project Management | Google | [Verify](https://coursera.org/share/d02d2fb4bf318ffdc497eb4e4aee1315) |
-| 🧩 Problem Solving (Intermediate) | HackerRank | [Verify](https://www.hackerrank.com/certificates/f3a46678fe1f) |
+| Badge                             | Issuer     | Certificate                                                           |
+| --------------------------------- | ---------- | --------------------------------------------------------------------- |
+| 🤖 Claude with the Anthropic API  | Anthropic  | [Verify](https://verify.skilljar.com/c/7fesrdovcbyu)                  |
+| 🤖 Claude Code in Action          | Anthropic  | [Verify](https://verify.skilljar.com/c/25va62tkxavi)                  |
+| 🤖 Claude 101                     | Anthropic  | [Verify](https://verify.skilljar.com/c/i3x4mxghp4dg)                  |
+| 📊 Google Project Management      | Google     | [Verify](https://coursera.org/share/c600b4aa34c37215aa1019eba2d6cabe) |
+| ⚡ Agile Project Management       | Google     | [Verify](https://coursera.org/share/d02d2fb4bf318ffdc497eb4e4aee1315) |
+| 🧩 Problem Solving (Intermediate) | HackerRank | [Verify](https://www.hackerrank.com/certificates/f3a46678fe1f)        |
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [VAPI Voice Assistant](https://github.com/senthilece01/vapi-voice-assistant) | Vanilla JS · VAPI | Standalone AI voice assistant widget — no build step, pure vanilla JS |
-| [RAG Agent](https://github.com/senthilece01/rag-agent-master) | FastAPI · LangGraph · Pinecone · Groq | Production-ready RAG API — upload PDFs, query with AI, get cited answers |
-| [AI Health Assistant](https://github.com/senthilece01/Flutter_AI_Health_Assistant) | Flutter · Gemini API · GetX | Conversational health AI with symptom chat & wellness tracking |
-| [Leave Management System](https://github.com/senthilece01/HR-Management-System) | Next.js · TypeScript · Redux · shadcn/ui | Full-stack HR portal with role-based leave approval |
-| [SKAlertDialog](https://github.com/senthilece01/SKAlertDialog) | Flutter · Dart | Highly customizable alert dialog Flutter package |
-| [SKNumberPad](https://github.com/senthilece01/SKNumberPad) | Flutter · CustomPainter | Animated PIN/OTP number pad widget |
-| [SKOnboardingScreen](https://github.com/senthilece01/SKOnboardingScreen) | Flutter · Bloc · AWS S3 | Flexible onboarding screen Flutter package |
+| Project                                                                                                    | Stack                                    | Description                                                                             |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| [LangChain Restaurant Name Generator](https://github.com/senthilece01/langchain-restaurant-name-generator) | Python · LangChain · OpenAI · Streamlit  | Streamlit app that generates restaurant names and menus using LangChain LCEL and OpenAI |
+| [VAPI Voice Assistant](https://github.com/senthilece01/vapi-voice-assistant)                               | Vanilla JS · VAPI                        | Standalone AI voice assistant widget — no build step, pure vanilla JS                   |
+| [RAG Agent](https://github.com/senthilece01/rag-agent-master)                                              | FastAPI · LangGraph · Pinecone · Groq    | Production-ready RAG API — upload PDFs, query with AI, get cited answers                |
+| [AI Health Assistant](https://github.com/senthilece01/Flutter_AI_Health_Assistant)                         | Flutter · Gemini API · GetX              | Conversational health AI with symptom chat & wellness tracking                          |
+| [Leave Management System](https://github.com/senthilece01/HR-Management-System)                            | Next.js · TypeScript · Redux · shadcn/ui | Full-stack HR portal with role-based leave approval                                     |
+| [SKAlertDialog](https://github.com/senthilece01/SKAlertDialog)                                             | Flutter · Dart                           | Highly customizable alert dialog Flutter package                                        |
+| [SKNumberPad](https://github.com/senthilece01/SKNumberPad)                                                 | Flutter · CustomPainter                  | Animated PIN/OTP number pad widget                                                      |
+| [SKOnboardingScreen](https://github.com/senthilece01/SKOnboardingScreen)                                   | Flutter · Bloc · AWS S3                  | Flexible onboarding screen Flutter package                                              |
 
 ---
 
