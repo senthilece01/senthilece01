@@ -144,6 +144,7 @@ const senthilkumar = {
 
 | Project                                                                                                    | Stack                                    | Description                                                                             |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Chatbots with LangGraph](https://github.com/senthilece01/chatbots_with_langGraph)                         | Python · LangGraph · Groq · LangSmith   | Stateful AI chatbot built with LangGraph graph orchestration and Groq Gemma2-9b model   |
 | [LangChain Restaurant Name Generator](https://github.com/senthilece01/langchain-restaurant-name-generator) | Python · LangChain · OpenAI · Streamlit  | Streamlit app that generates restaurant names and menus using LangChain LCEL and OpenAI |
 | [VAPI Voice Assistant](https://github.com/senthilece01/vapi-voice-assistant)                               | Vanilla JS · VAPI                        | Standalone AI voice assistant widget — no build step, pure vanilla JS                   |
 | [RAG Agent](https://github.com/senthilece01/rag-agent-master)                                              | FastAPI · LangGraph · Pinecone · Groq    | Production-ready RAG API — upload PDFs, query with AI, get cited answers                |
@@ -152,7 +153,6 @@ const senthilkumar = {
 | [SKAlertDialog](https://github.com/senthilece01/SKAlertDialog)                                             | Flutter · Dart                           | Highly customizable alert dialog Flutter package                                        |
 | [SKNumberPad](https://github.com/senthilece01/SKNumberPad)                                                 | Flutter · CustomPainter                  | Animated PIN/OTP number pad widget                                                      |
 | [SKOnboardingScreen](https://github.com/senthilece01/SKOnboardingScreen)                                   | Flutter · Bloc · AWS S3                  | Flexible onboarding screen Flutter package                                              |
-| [Chatbots with LangGraph](https://github.com/senthilece01/chatbots_with_langGraph)                         | Python · LangGraph · Groq · LangSmith   | Stateful AI chatbot built with LangGraph graph orchestration and Groq Gemma2-9b model   |
 
 ---
 
