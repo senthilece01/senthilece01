@@ -152,6 +152,7 @@ const senthilkumar = {
 | [SKAlertDialog](https://github.com/senthilece01/SKAlertDialog)                                             | Flutter · Dart                           | Highly customizable alert dialog Flutter package                                        |
 | [SKNumberPad](https://github.com/senthilece01/SKNumberPad)                                                 | Flutter · CustomPainter                  | Animated PIN/OTP number pad widget                                                      |
 | [SKOnboardingScreen](https://github.com/senthilece01/SKOnboardingScreen)                                   | Flutter · Bloc · AWS S3                  | Flexible onboarding screen Flutter package                                              |
+| [Chatbots with LangGraph](https://github.com/senthilece01/chatbots_with_langGraph)                         | Python · LangGraph · Groq · LangSmith   | Stateful AI chatbot built with LangGraph graph orchestration and Groq Gemma2-9b model   |
 
 ---
 
